@@ -5,9 +5,9 @@ const CONFIG = {
   BASE_IMAGE_URL_MEDIUM_RES: 'https://dicoding-restaurant-api.el.r.appspot.com/images/medium/',
   BASE_IMAGE_URL_LARGE_RES: 'https://dicoding-restaurant-api.el.r.appspot.com/images/large/',
   DEFAULT_LANGUAGE: 'en-us',
-  CACHE_NAME: 'LoveEat-WPA-v3', // new Date().toISOString()
+  CACHE_NAME: 'LoveEat-WPA-v3.1', // new Date().toISOString()
   DATABASE_NAME: 'love-eat-database',
-  DATABASE_VERSION: 3,
+  DATABASE_VERSION: 4,
   OBJECT_STORE_NAME: 'restaurant',
   OBJECT_STORE_BOOK_NAME: 'book',
   PLACEHOLDER_IMAGE_URL: 'https://en.resto.lu/across/resources/static/4a4d0bbe210651f1125e71eade685f26549fee00/site/images/placeholder-detail-resto-1.jpg',
