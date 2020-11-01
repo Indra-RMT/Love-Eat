@@ -175,7 +175,7 @@ const createRestaurantDetailTemplate = (restaurant) => {
       <div class="restaurant-review">
         <h3 tabindex="0">Review</h3>
         <div id="all-review">
-          ${createReviewFromReview(restaurant.consumerReviews)}
+          ${createReviewFromReview(restaurant.customerReviews)}
         </div>
         <div class="write-review">
           <div class="label-review" tabindex="0"><h4>Write My Review</h4></div>
